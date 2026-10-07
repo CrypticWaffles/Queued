@@ -81,6 +81,10 @@ app/src/main/
     └── values/                     — Strings, colors, and Material 3 theme
 ```
 
+## Attribution
+
+Show data and images are provided by the [TVmaze API](https://www.tvmaze.com/api), free of charge for use in applications. Queued is not affiliated with or endorsed by TVmaze.
+
 ## Database Schema
 
 The SQLite database (`queued`) contains a single `SHOW` table:
